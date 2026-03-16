@@ -1,0 +1,30 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Données
+data/raw/
+data/processed/
+
+# Modèles
+models/
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
